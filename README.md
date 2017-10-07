@@ -5,7 +5,9 @@ The synthé λ project
  
  - The [Hydrocycler](http://www.douglasscientific.com/Products/Hydrocycler.aspx)
  
- - The [miniPCR](https://www.minipcr.com/products/minipcr/)? (if it supports flat bottom or 1,536-well plates).
+ - The [miniPCR](https://www.minipcr.com/products/minipcr/) or
+   [On Deck Thermal Cycler](http://www.inheco.com/products/lab-automation/thermal-cycler.html)?
+   (if they supports flat bottom or 1,536-well plates).
 
  - Nanoliter dispenser ([BioDot](https://www.biodot.com/))
    - Low-volume PCR: https://www.biodot.com/low-volume-pcr/
