@@ -18,3 +18,9 @@ Not for us, but look cool:
   [miniPCR](https://www.minipcr.com/products/minipcr/) (standard 200 µL tubes only),
   [On Deck Thermal Cycler](http://www.inheco.com/products/lab-automation/thermal-cycler.html) (384-well plates maximum).
 
+Only 43 hexamers are absent from the genome sequence of the Phage λ.
+
+```
+$ Rscript -e 'sum(Biostrings::oligonucleotideFrequency(Biostrings::readDNAStringSet("lambda.fa"), 6) == 0)'
+[1] 43
+```
