@@ -8,6 +8,9 @@ The synthé λ project
  - Nanoliter dispenser ([BioDot](https://www.biodot.com/))
    - Low-volume PCR: https://www.biodot.com/low-volume-pcr/
    - cost: ?
+   
+ - ABI's [ProFlex](https://www.thermofisher.com/jp/en/home/life-science/pcr/thermal-cyclers-realtime-instruments/thermal-cyclers/proflex-pcr-system.html) PCR System can be equipped with flat blocks.
+   - cost: a few MMM.
 
 ----
 Notes:
