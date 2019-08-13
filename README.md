@@ -15,6 +15,8 @@ The synthé λ project
    - Eppendorf's [Mastercycler nexus](https://online-shop.eppendorf.com/OC-en/PCR-44553/Cyclers-44554/Mastercycler-nexus-PF-14698.html) has a "Flat" and a "Flat eco" variant with flat block.
      - cost: ?
 
+ - [Opentrons](https://www.opentrons.com/) ?
+
 ----
 Notes:
 
