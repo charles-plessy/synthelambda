@@ -5,7 +5,7 @@ The synthé λ project
  
  - The [Hydrocycler](http://www.douglasscientific.com/Products/Hydrocycler.aspx)
  
- - Nanoliter dispenser ([BioDot](https://www.biodot.com/))
+ - Nanoliter dispenser ([BioDot](https://www.biodot.com/), [I-DOT](https://cellink.com/biofluidics/i-dot/)?, [Labcyte Echo](https://www.labcyte.com/products/liquid-handling/echo-liquid-handlers)?)
    - Low-volume PCR: https://www.biodot.com/low-volume-pcr/
    - cost: ?
 
